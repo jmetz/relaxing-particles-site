@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Character set -->
+    <meta charset="UTF-8">
+    
+    <!-- Viewport for responsiveness -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO and Social Media Metadata -->
+    <meta name="description" content="Privacy policy for Relaxing Particles.">
+    <meta name="keywords" content="Privacy Policy, Relaxing Particles App">
+    
+    <!-- Title of the Document -->
+    <title>Relaxing Particles Privacy Palicy</title>
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+    >    
+
+    <!-- Favicon -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+
+</body>
